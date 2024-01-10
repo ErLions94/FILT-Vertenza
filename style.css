@@ -1,3 +1,10 @@
+.sopra {
+    background-image: url(SITOCGIL.jpg);
+    background-position: right;
+    background-size: 140%;
+    background-repeat: no-repeat;
+}
+
 .iscrizione {
     text-align: center;
     padding-top: 4%;
