@@ -1,0 +1,188 @@
+.sopra {
+    background-image: url(SITOCGIL.jpg);
+    background-position: right;
+    background-size: 140%;
+    background-repeat: no-repeat;
+}
+
+.iscrizione {
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 10%;
+}
+
+.papero {
+    border: 5px solid red;
+    background-color: rgba(255, 0, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero1 {
+    border: 5px solid orangered;
+    background-color: rgba(255, 69, 0, 0.8);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero2 {
+    border: 5px solid yellow;
+    background-color: rgba(255, 255, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero3 {
+    border: 5px solid green;
+    background-color: rgba(0, 128, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero4 {
+    border: 5px solid blue;
+    background-color: rgba(0, 0, 255, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero5 {
+    border: 5px solid purple;
+    background-color: violet;
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.domande {
+    margin: 5px;
+}
+
+.penna {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna1 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna2 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna3 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna4 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna5 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna6 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna7 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.penna8 {
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.iscrizione img:hover {
+    transform: scale(1.03);
+}
+
+.sito img:hover {
+    transform: scale(1.03);
+}
+
+.vertenza h1 {
+    margin-top: 1%;
+    margin-bottom: 0%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.vero ul {
+    margin-top: 1%;
+    margin-bottom: 0%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.data {
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+.iscrizione {
+    margin-top: 0%;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+
+.papero6 {
+    border-top: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    border-bottom: none;
+    background-color: rgba(255, 0, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero7 {
+    border-top: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    border-bottom: 5px solid red;
+    background-color: rgba(255, 0, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.papero8 {
+    border-top: none;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    border-bottom: 5px solid red;
+    background-color: rgba(255, 0, 0, 0.4);
+    margin-bottom: 5px;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.vero {
+    margin-top: 2%;
+}
