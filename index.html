@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=devide-width, initial-scale=1">
         <meta property="og:title" content="Filt CGIL"/>
-        <meta property="og:description" content="Vertenza EQUIPAGGI"/>
+        <meta property="og:description" content="VERTENZA IN ATTO!"/>
         <meta property="og:image" content="https://www.radiopiu.net/wordpress/wp-content/uploads/2021/06/FILT-CGIL.png"/>
         <link rel="shortcut icon" type="image/x-icon" href="faviconlogo.ico">
     </head>
@@ -13,6 +13,7 @@
         <script src="app.js"></script>
         <style>
             body {margin: 0px;}
+            .im {display: none;}
             .up {text-align: center;}
             .vertenza {text-align: left;}
             .data h2 {width: 50%; margin: 0 auto; font-size: 32px; text-align: right;}
@@ -83,6 +84,10 @@
                 .frase h2 {font-size: 22px;}
             }
             @media (max-width: 480px) {
+                .im {display: unset;}
+                .im img {height: 110px;}
+                .up img {display: none;}
+                .sopra {height: 100px;}
                 .vertenza h1 {font-size: 33px;}
                 .data h2 {width: 90%; margin: 0 auto; font-size: 20px;}
                 .vero h1 {width: 90%; margin: 0 auto; font-size: 25px;}
@@ -125,6 +130,11 @@
             }
 
         </style>
+        <div class="im">
+            <img src="CGIL.jpg" alt="Filt"/>
+        </div>
+        <div class="sopra">    
+        </div>
         <div class="up">
             <img src="SITOCGIL.jpg" alt="CGIL"/>
         </div>
